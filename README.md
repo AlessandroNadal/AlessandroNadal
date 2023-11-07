@@ -6,7 +6,7 @@
 - 📫 How to reach me: Discord: @akex06 Email: alessandro@akex.dev
 - ⚡ My website: https://akex.dev/ 
 
-# 💻Tech Stack
+## 💻Tech Stack
 ![Python - Pro](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQLite - Pro](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![JavaScript - Intermediate](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -15,7 +15,9 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%23000000.svg?style=for-the-badge&logo=GNUBash&logoColor=white)
-# 📊GitHub Stats :
+
+## 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=akex06&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
+## 🔔 Latest Github Metrics
 ![Metrics](https://metrics.lecoq.io/Akex06?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
