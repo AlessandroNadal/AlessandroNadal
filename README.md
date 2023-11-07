@@ -17,3 +17,5 @@
 ![Bash](https://img.shields.io/badge/Bash-%23000000.svg?style=for-the-badge&logo=GNUBash&logoColor=white)
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=akex06&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+
+![Metrics](https://metrics.lecoq.io/Akex06?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
