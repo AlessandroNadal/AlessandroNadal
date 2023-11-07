@@ -21,3 +21,6 @@
 
 ## 🔔 Latest Github Metrics
 ![Metrics](https://metrics.lecoq.io/Akex06?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+
+## 🕔 Recent Activity
+<!--START_SECTION:activity-->
