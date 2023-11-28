@@ -18,5 +18,18 @@
 ## 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=akex06&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
-## 🔔 Latest Github Metrics
-![Metrics](https://metrics.lecoq.io/AlessandroNadal?template=classic&base.indepth=true&base.skip=true&base.header=0&languages=1&lines=1&activity=1&support=1&screenshot=1&leetcode=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=true&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=8&lines.delay=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&support=false&leetcode=false&leetcode.user=Akex06&leetcode.sections=solved&leetcode.limit.skills=10&leetcode.limit.recent=2&screenshot=false&screenshot.title=My%20Website&screenshot.url=https%3A%2F%2Fakex.dev&screenshot.selector=body&screenshot.mode=image&screenshot.viewport=%7B%0A%20%20%22width%22%3A%201280%2C%0A%20%20%22height%22%3A%201280%0A%7D%0A&screenshot.wait=0&screenshot.background=true&config.timezone=Europe%2FMadrid&config.twemoji=true)
+## ⛪Ventana de Johari
+|    Area Libre    |    Area Ciega    |    Area Oculta   | Area Desconocida |
+|------------------|------------------|------------------|------------------|
+| Humilde          | Prudente         | No hay nada en   | Abierto          |
+| Sincero          | Valiente         | esta área        | Paciente         |
+| Entusiasta       | Minucioso        |                  | Constante        |
+| Generoso         | Coherente        |                  | Justo            |
+| Honesto          |                  |                  |                  |
+| Amable           |                  |                  |                  |
+| Leal             |                  |                  |                  |
+| Optimista        |                  |                  |                  |
+| Empático         |                  |                  |                  |
+| Puntual          |                  |                  |                  |
+|                  |                  |                  |                  |
+
