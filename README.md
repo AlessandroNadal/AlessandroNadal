@@ -21,8 +21,8 @@
 ## ⛪Ventana de Johari
 |    Area Libre    |    Area Ciega    |    Area Oculta   | Area Desconocida |
 |------------------|------------------|------------------|------------------|
-| Humilde          | Prudente         | No hay nada en   | Abierto          |
-| Sincero          | Valiente         | esta área        | Paciente         |
+| Humilde          | Prudente         | No hay nada en esta área   | Abierto          |
+| Sincero          | Valiente         |                  | Paciente         |
 | Entusiasta       | Minucioso        |                  | Constante        |
 | Generoso         | Coherente        |                  | Justo            |
 | Honesto          |                  |                  |                  |
