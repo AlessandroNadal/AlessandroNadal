@@ -31,5 +31,4 @@
 | Optimista        |                  |                            |                  |
 | Empático         |                  |                            |                  |
 | Puntual          |                  |                            |                  |
-|                  |                  |                            |                  |
 
