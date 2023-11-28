@@ -19,17 +19,17 @@
 ![](https://github-readme-stats.vercel.app/api?username=akex06&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 ## ⛪Ventana de Johari
-|    Area Libre    |    Area Ciega    |    Area Oculta   | Area Desconocida |
-|------------------|------------------|------------------|------------------|
+|    Area Libre    |    Area Ciega    |         Area Oculta        | Area Desconocida |
+|------------------|------------------|----------------------------|------------------|
 | Humilde          | Prudente         | No hay nada en esta área   | Abierto          |
-| Sincero          | Valiente         |                  | Paciente         |
-| Entusiasta       | Minucioso        |                  | Constante        |
-| Generoso         | Coherente        |                  | Justo            |
-| Honesto          |                  |                  |                  |
-| Amable           |                  |                  |                  |
-| Leal             |                  |                  |                  |
-| Optimista        |                  |                  |                  |
-| Empático         |                  |                  |                  |
-| Puntual          |                  |                  |                  |
-|                  |                  |                  |                  |
+| Sincero          | Valiente         |                            | Paciente         |
+| Entusiasta       | Minucioso        |                            | Constante        |
+| Generoso         | Coherente        |                            | Justo            |
+| Honesto          |                  |                            |                  |
+| Amable           |                  |                            |                  |
+| Leal             |                  |                            |                  |
+| Optimista        |                  |                            |                  |
+| Empático         |                  |                            |                  |
+| Puntual          |                  |                            |                  |
+|                  |                  |                            |                  |
 
