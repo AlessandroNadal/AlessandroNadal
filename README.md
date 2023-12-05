@@ -33,7 +33,7 @@
 | Puntual          |                  |                            |                  |
 
 ## 📜 Curriculum
-<div width="500px">
+<div width="500px" style="text-align: center">
     <div>
         <a href="https://raw.githubusercontent.com/AlessandroNadal/AlessandroNadal/main/Curriculum%20-%20Alessandro%20Nadal.pdf">[ Descargar ]</a>
         <a href="https://github.com/AlessandroNadal/AlessandroNadal/blob/main/Curriculum%20-%20Alessandro%20Nadal.pdf">[ Ver ]</a>
