@@ -41,4 +41,5 @@
   <img src="https://github.com/AlessandroNadal/AlessandroNadal/assets/122394285/dd60703e-cdea-425b-bd59-b1da12b04876" width="500px">
 </p>
 
-                
+## Projecte
+<a href="https://github.com/AlessandroNadal/AlessandroNadal/tree/main/projecte">Clic aquí per anar al projecte</a>
