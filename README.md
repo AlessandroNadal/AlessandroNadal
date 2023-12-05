@@ -33,4 +33,4 @@
 | Puntual          |                  |                            |                  |
 
 ## Curriculum
-![Descargar](https://raw.githubusercontent.com/AlessandroNadal/AlessandroNadal/main/Curriculum%20-%20Alessandro%20Nadal.pdf) ![Ver](https://github.com/AlessandroNadal/AlessandroNadal/blob/main/Curriculum%20-%20Alessandro%20Nadal.pdf)
+[Descargar](https://raw.githubusercontent.com/AlessandroNadal/AlessandroNadal/main/Curriculum%20-%20Alessandro%20Nadal.pdf) [Ver](https://github.com/AlessandroNadal/AlessandroNadal/blob/main/Curriculum%20-%20Alessandro%20Nadal.pdf)
