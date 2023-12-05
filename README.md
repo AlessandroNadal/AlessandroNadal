@@ -34,6 +34,9 @@
 
 ## 📜 Curriculum
 <p align="center">
+<img src="https://github.com/AlessandroNadal/AlessandroNadal/assets/122394285/dd60703e-cdea-425b-bd59-b1da12b04876" width="500px">
+</p>
+<p align="center">
     <div>
         <a href="https://raw.githubusercontent.com/AlessandroNadal/AlessandroNadal/main/Curriculum%20-%20Alessandro%20Nadal.pdf">[ Descargar ]</a>
         <a href="https://github.com/AlessandroNadal/AlessandroNadal/blob/main/Curriculum%20-%20Alessandro%20Nadal.pdf">[ Ver ]</a>
