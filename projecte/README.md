@@ -1,1 +1,1 @@
-# apsdpahsd
+# Projecte de Síntesi - SMiX II
