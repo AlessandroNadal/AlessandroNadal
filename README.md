@@ -15,7 +15,7 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%23000000.svg?style=for-the-badge&logo=GNUBash&logoColor=white)
 
-## 📊GitHub Stats :
+## 📊GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=akex06&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 ## ⛪Ventana de Johari
@@ -32,3 +32,5 @@
 | Empático         |                  |                            |                  |
 | Puntual          |                  |                            |                  |
 
+## Curriculum
+![Descargar](https://raw.githubusercontent.com/AlessandroNadal/AlessandroNadal/main/Curriculum%20-%20Alessandro%20Nadal.pdf) ![Ver](https://github.com/AlessandroNadal/AlessandroNadal/blob/main/Curriculum%20-%20Alessandro%20Nadal.pdf)
