@@ -34,4 +34,5 @@
 
 ## Curriculum
 [ [Descargar] ](https://raw.githubusercontent.com/AlessandroNadal/AlessandroNadal/main/Curriculum%20-%20Alessandro%20Nadal.pdf) [ [Ver] ](https://github.com/AlessandroNadal/AlessandroNadal/blob/main/Curriculum%20-%20Alessandro%20Nadal.pdf)
-![Curriculum - Alessandro Nadal](https://github.com/AlessandroNadal/AlessandroNadal/assets/122394285/4ae2cf88-2ecd-4f14-a28a-2da1bd20f083)
+![image](https://github.com/AlessandroNadal/AlessandroNadal/assets/122394285/9869c42d-10de-4cdd-acf4-225601d34442)
+
