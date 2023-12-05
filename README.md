@@ -42,4 +42,4 @@
 </p>
 
 ## 👨‍💻 Projecte
-<a href="https://github.com/AlessandroNadal/AlessandroNadal/tree/main/projecte">Clic aquí per anar al projecte</a>
+<a href="https://github.com/AlessandroNadal/AlessandroNadal/tree/main/projecte">Clic aquí per anar al meu projecte</a>
