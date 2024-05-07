@@ -33,4 +33,4 @@
 | Puntual          |                  |                            |                  |
 
 ## 👨‍💻 Projecte
-<a href="https://github.com/AlessandroNadal/AlessandroNadal/tree/main/projecte">Clic aquí per anar al meu projecte</a>
+<a href="https://github.com/Proyecto-Sintesi/repositories">Clic aquí per anar al meu projecte</a>
